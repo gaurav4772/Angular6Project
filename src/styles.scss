@@ -1,0 +1,15 @@
+h1, h2, h3, h4, h5, h6, p, ul, li, body, html, form, fieldset,figure,label{ margin:0; padding:0; outline:none; font-weight:normal; border:0 }
+*{box-sizing: border-box;}
+img { border:0 none; max-width: 100%; height: auto;display: inline-block;} 
+a { text-decoration:none; border:0; outline:none!important;} 
+ul { list-style:none; }
+select{-webkit-appearance: none;-webkit-border-radius:0;border-radius:0;}
+input,select,a,textarea,button{outline: none!important}
+a:hover,a.active,a:focus,span:focus{text-decoration: none;outline: none;transition: all .5s ease;}
+input{border-radius: 0px;box-shadow: none;}
+textarea{border-radius: 0px;box-shadow: none;}
+body{font-family: Arial, Helvetica, sans-serif;}
+
+app-home,app-about{
+    width: 100%;
+}
